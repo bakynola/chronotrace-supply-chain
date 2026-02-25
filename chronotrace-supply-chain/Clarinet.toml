@@ -7,8 +7,8 @@ cache_dir = '.\.cache'
 requirements = []
 [contracts.chronotrace-supply-chain]
 path = 'contracts/chronotrace-supply-chain.clar'
-clarity_version = 3
-epoch = 3.0
+clarity_version = 2
+epoch = 2.1
 [repl.analysis]
 passes = ['check_checker']
 
